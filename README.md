@@ -1,5 +1,6 @@
 aws-polly-example
 ===
+[![Build Status](https://travis-ci.org/gregwhitaker/aws-polly-example.svg?branch=master)](https://travis-ci.org/gregwhitaker/aws-polly-example)
 
 Example of using [Amazon Polly](https://aws.amazon.com/polly/) for text-to-speech integration.
 
