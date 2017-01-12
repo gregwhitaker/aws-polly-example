@@ -11,6 +11,8 @@ The example can be run using the following Gradle command:
 
 Once the application has started, point your web browser to [http://localhost:5050](http://localhost:5050) to access the test page.
 
+**NOTE:** The example is using the `DefaultAWSCredentialsProvider` so you can supply your AWS credentials using the `.aws/credentials` file, as system properties, or as environment variables.
+
 ##Bugs and Feedback
 
 For bugs, questions and discussions please use the [Github Issues](https://github.com/gregwhitaker/aws-polly-example/issues).
